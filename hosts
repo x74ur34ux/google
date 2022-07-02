@@ -13,22 +13,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-0.0.0.0 0.client-channel.google.com
 0.0.0.0 0.docs.google.com
 0.0.0.0 1.docs.google.com
-0.0.0.0 2.client-channel.google.com
-0.0.0.0 3.client-channel.google.com
 0.0.0.0 3.docs.google.com
-0.0.0.0 8.client-channel.google.com
-0.0.0.0 10.client-channel.google.com
-0.0.0.0 12.client-channel.google.com
-0.0.0.0 13.client-channel.google.com
-0.0.0.0 14.client-channel.google.com
-0.0.0.0 18.client-channel.google.com
-0.0.0.0 19.client-channel.google.com
-0.0.0.0 20.client-channel.google.com
-0.0.0.0 26.client-channel.google.com
-0.0.0.0 28.client-channel.google.com
 0.0.0.0 31.google.com
 0.0.0.0 40.cache.google.com
 0.0.0.0 60-199-175-183.cache.google.com
