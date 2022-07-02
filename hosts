@@ -67,8 +67,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alt6-mtalk.google.com
 0.0.0.0 ampcid.google.com
 0.0.0.0 analytics.google.com
-0.0.0.0 android-safebrowsing.google.com
-0.0.0.0 android.clients.google.com
 0.0.0.0 answers.google.com
 0.0.0.0 api.google.com
 0.0.0.0 apis.google.com
