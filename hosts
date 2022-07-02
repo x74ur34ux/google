@@ -55,8 +55,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ampcid.google.com
 0.0.0.0 analytics.google.com
 0.0.0.0 answers.google.com
-0.0.0.0 api.google.com
-0.0.0.0 apis.google.com
 0.0.0.0 appengine.google.com
 0.0.0.0 appmaker.corp.google.com
 0.0.0.0 apps.google.com
